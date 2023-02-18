@@ -14,6 +14,11 @@
     font-size: 24px;
     margin-bottom: 20px;
   }
+  #quiz-container small{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+  }
   
   #quiz-container .question {
     margin-bottom: 20px;
